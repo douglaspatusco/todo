@@ -1,16 +1,25 @@
-# todo-vue
+# 📝 ToDo List
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple and functional ToDo list. This project allows users to easily add, complete, and delete tasks in a clean and minimal interface.
 
-## Recommended IDE Setup
+## 🚀 Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- Add new tasks  
+- Mark tasks as completed  
+- Delete tasks  
+- Visual feedback for completed items  
 
-## Customize configuration
+## 🌐 Live Demo
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+👉 [todo-vue-dougeduardo.vercel.app](https://todo-vue-dougeduardo.vercel.app/)
 
-## Project Setup
+## 🛠️ Tech Stack
+
+- **Vue.js** (Composition API)  
+- **Vite** (for blazing fast development)  
+- **Vercel** (for deployment)
+
+## 💾 Project Setup
 
 ```sh
 npm install
