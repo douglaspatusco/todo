@@ -13,6 +13,11 @@ A simple and functional ToDo list. This project allows users to easily add, comp
 
 👉 [todo-vue-dougeduardo.vercel.app](https://todo-vue-dougeduardo.vercel.app/)
 
+## 📸 Demonstration
+
+![preview](https://i.imgur.com/FttpGOs.png)
+
+---
 ## 🛠️ Tech Stack
 
 - **Vue.js** (Composition API)  
@@ -22,17 +27,13 @@ A simple and functional ToDo list. This project allows users to easily add, comp
 ## 💾 Project Setup
 
 ```sh
+git clone git@github.com:douglaspatusco/todo.git
+
+cd todo
+
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
 npm run build
 ```
