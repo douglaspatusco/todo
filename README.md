@@ -11,7 +11,7 @@ A simple and functional ToDo list. This project allows users to easily add, comp
 
 ## 🌐 Live Demo
 
-👉 [todo-vue-dougeduardo.vercel.app](https://todo-vue-dougeduardo.vercel.app/)
+👉 [todo-dougeduardo.vercel.app](https://todo-dougeduardo.vercel.app/)
 
 ## 📸 Demonstration
 
